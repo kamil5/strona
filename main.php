@@ -43,14 +43,16 @@
 					
 					<div class="centerBox">
 						<div class="verse">
-							<div class="leftPart"><br>111111<br></div>
-							<div class="rightPart"><br>2222222<br></div>
+							<div class="rightPart">2222222</div>
+							<div class="leftPart">111111</div>
+							
 						</div>
 						<div class="verse">
-							<div class="leftPart"><br>111111<br></div>
-							<div class="rightPart"><br>2222222<br></div>
+							<div class="rightPart">2222222</div>
+							<div class="leftPart">111111</div>
+							
 						</div>
-						<br>
+						
 					</div>
 					
 					

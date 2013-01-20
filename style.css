@@ -125,34 +125,28 @@
 
 .centerBox
 {
-	width: 450px;	
-	height: auto;
+	width: 450px;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 10px;
 	border-width: 1px;
 	border-color: black;
 	border-style: solid;
-	display: table;
 }
 
 .verse
 {
-	margin-left: auto;
-	margin-right: auto;
-	height: auto;
-	display: table-cell;
-    vertical-align: middle;
 	border-width: 1px;
 	border-color: black;
 	border-style: solid;
+	width: 100%;
+	clear: both;
+	padding: 10px 0;
 }
 
 .leftPart
 {
 	width: 45%;
-	height: auto;
-	float: left;
 	text-align: right;
 	border-width: 1px;
 	border-color: black;
@@ -162,7 +156,6 @@
 .rightPart
 {
 	width: 45%;
-	height: auto;
 	float: right;
 	text-align: left;
 	border-width: 1px;
